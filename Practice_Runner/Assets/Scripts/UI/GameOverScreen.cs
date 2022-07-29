@@ -37,7 +37,7 @@ public class GameOverScreen : MonoBehaviour
         _gameOverGroup.alpha = 1;
         Time.timeScale = 0;
     }
-
+    //added score counter
     private void OnRestartButtonClick()
     {
         if (ScoreCount._hiScoreCount < ScoreCount._scoreCount)

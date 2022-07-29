@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ScoreCount : MonoBehaviour
 {
-
+    //added hiscore counter
     [SerializeField] private Text _score;
     [SerializeField] private Text _hiScore;
 
