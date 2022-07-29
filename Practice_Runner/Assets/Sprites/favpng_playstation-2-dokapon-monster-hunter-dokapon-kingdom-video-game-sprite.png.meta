@@ -1,0 +1,1432 @@
+fileFormatVersion: 2
+guid: d5f8bebb9057ed04b9edbda8b56619fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3099
+        width: 397
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc88179a49dd7c40a292c2668467569
+      internalID: -257782515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3099
+        width: 396
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549fec305a01f994da184f70be9358a7
+      internalID: -1894789938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3099
+        width: 362
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68cfae674367fa4eae64675871aa663
+      internalID: 1789864571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 3099
+        width: 364
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1798737bc2f2d41b31889bc80548c7
+      internalID: -1363981179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 3099
+        width: 342
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecaeac46bd00ae4d9d13b5ddb4df5db
+      internalID: -337287442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 3099
+        width: 434
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4443cd198794bc84eb9d2c3be8072ae7
+      internalID: 1855387444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 3099
+        width: 350
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e513a42d0f4c3a4987ae84381e4849f
+      internalID: 1987952467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3099
+        width: 349
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7932cb2cb9a25d447a89a4c59fc7b3b8
+      internalID: -1444385518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 3099
+        width: 455
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f167361ab0c139e469fca56a76f9b540
+      internalID: 866808497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2583
+        width: 371
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792098270b2be0542bbdf48d70c0317d
+      internalID: 1036086414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2583
+        width: 273
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159355525e7c68e4a86860333a538c86
+      internalID: 1922789065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 2583
+        width: 291
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b02c86cec3d2b948814ab3ae0c019a3
+      internalID: 495170165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 2583
+        width: 273
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf881751616724093d72690bc97ab0
+      internalID: 88619263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 2583
+        width: 291
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067362295f28e44e82819517e176fa0
+      internalID: -807372368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 2583
+        width: 289
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e7380c6e0ec34db701cbf3d8ba03c
+      internalID: -720392695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 2583
+        width: 287
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d29a4d2241bd2b46b76608b1daf5762
+      internalID: -1905138920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 2583
+        width: 386
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077c8d97e72725419ff12d3ce755f12
+      internalID: 798226903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 2583
+        width: 387
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cd6453d7ebc9b46be2355444831b0d
+      internalID: 348141745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2064
+        width: 334
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40882d3390d5c0c46841d760eab1048c
+      internalID: -1879767363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2064
+        width: 337
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb9d7789bfed7440a1b6e19f555fabe
+      internalID: -239149861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2064
+        width: 335
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be34f62071980344aa2cf8b8c2c4158
+      internalID: 1660761174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 2064
+        width: 332
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fbd36d761e354489da1963c7ddb87e
+      internalID: 1316390688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2064
+        width: 366
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b270a755f5127479627e9bdd4908e7
+      internalID: 675925244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2064
+        width: 367
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1433d1686d8f647b118211f1690654
+      internalID: -569035266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 2064
+        width: 355
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a40afc5646b2cd4ab0bce1b34a13248
+      internalID: 1934562066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 2064
+        width: 352
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fa2f7091e17d94d8ade3ebb7ce2c70
+      internalID: -2013108787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 2064
+        width: 325
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34b5bd89f942c04ab81a3e7b336c835
+      internalID: -1010495372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1548
+        width: 325
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc346be67aee8694ca2946ce955f0a82
+      internalID: 940405697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1548
+        width: 334
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2e09060ee84944b8c26d1cf197e616
+      internalID: -334772649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1548
+        width: 337
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984eee11aaa86564c9240f6c833f953d
+      internalID: -105143109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1548
+        width: 512
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f1787c8a7165a4aae7b479e3dea9e9
+      internalID: -1513258700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1548
+        width: 512
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db18f6d3933f2524d90942226db97813
+      internalID: 753266511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 1548
+        width: 391
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a7488d6d6e8d4cae0b158cbad73fd
+      internalID: 1164861372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 1548
+        width: 393
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793dfab5f2a31024c84e0a0b24037968
+      internalID: 1130797594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 1548
+        width: 423
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b421d9110390fe4aa3e771d666b6449
+      internalID: 1057801154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 1548
+        width: 336
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65570c53853efa42a1a0cb56d1a6a88
+      internalID: 977115792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1032
+        width: 373
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b258232107f28a40b23f11905d93acb
+      internalID: -784652006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1032
+        width: 466
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05848717564be64282360c562aef3fc
+      internalID: 915240527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1057
+        width: 247
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10fadcb5ae7d04bbcd5a8a2507ff27
+      internalID: 1764500431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 513
+        width: 378
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7bdc02f32c51439f610d752c6e716
+      internalID: 1263583381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1032
+        width: 400
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340f2d6ea302e4641b4bfe3d3ff8a67a
+      internalID: 1873515163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1032
+        width: 306
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bbcdca1445d33478d8ded4828be5e8
+      internalID: 722725142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 1032
+        width: 495
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802ecf7965fd27e478c34d4f73067267
+      internalID: 474979994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 1032
+        width: 364
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88387817b71be3e4da884fdfdb70bd8b
+      internalID: 1768568111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 1032
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a0b71d3c6e954884d2224f0f3de6a
+      internalID: 1308386601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 514
+        width: 409
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d1f8324c086934894518e72223354f
+      internalID: 980574556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 515
+        width: 414
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a67ef8c2240e43bab9034879630a8
+      internalID: 1934514579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 514
+        width: 493
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb459f984aa6b94b80cf09463b8ef7d
+      internalID: 1795262099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 514
+        width: 388
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4db466950a2b146856364992a590dc
+      internalID: 76932922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 514
+        width: 421
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127231e1ee8d96c4e91e9edbe0e1459c
+      internalID: 382891307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 515
+        width: 209
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26666172860c37b48a39afd0994a5904
+      internalID: 547174467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 515
+        width: 261
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39240077d99324b4f81d809060d7efce
+      internalID: 818682255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 540
+        width: 216
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cb9d8db990f1040b6e75da4551a090
+      internalID: -1406039471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 423
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c7e7c0da91a549b15bf33ae9e39cf
+      internalID: -517006929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 110
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb0024747d434f41ae09144cd5b1800
+      internalID: 1088934541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 0
+        width: 313
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158aa6dd9f9b99f47a26d32f69a34e79
+      internalID: 810757121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 0
+        width: 314
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c326151b8584a34ba25c078c530f882
+      internalID: -1003849539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 0
+        width: 268
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be85c2ceeb9e542b15193f3ccf3864
+      internalID: 1064151556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 0
+        width: 468
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d51a826b71a624988c1ad3d2709fa9
+      internalID: 1379659109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_33: 1130797594
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_9: 1036086414
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_28: -334772649
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_11: 495170165
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_20: 1660761174
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_13: -807372368
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_22: 675925244
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_15: -1905138920
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_23: -569035266
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_57: 1064151556
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_48: 76932922
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_47: 1795262099
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_29: -105143109
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_52: -1406039471
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_0: -257782515
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_3: -1363981179
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_45: 980574556
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_8: 866808497
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_4: -337287442
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_17: 348141745
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_31: 753266511
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_16: 798226903
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_46: 1934514579
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_55: 810757121
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_27: 940405697
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_26: -1010495372
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_39: 1263583381
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_53: -517006929
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_19: -239149861
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_18: -1879767363
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_41: 722725142
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_21: 1316390688
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_1: -1894789938
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_2: 1789864571
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_36: -784652006
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_38: 1764500431
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_6: 1987952467
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_37: 915240527
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_24: 1934562066
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_25: -2013108787
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_49: 382891307
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_56: -1003849539
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_42: 474979994
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_51: 818682255
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_10: 1922789065
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_5: 1855387444
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_7: -1444385518
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_32: 1164861372
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_14: -720392695
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_30: -1513258700
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_40: 1873515163
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_34: 1057801154
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_43: 1768568111
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_54: 1088934541
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_44: 1308386601
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_12: 88619263
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_50: 547174467
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_58: 1379659109
+      favpng_playstation-2-dokapon-monster-hunter-dokapon-kingdom-video-game-sprite_35: 977115792
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
