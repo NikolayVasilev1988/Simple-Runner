@@ -40,6 +40,9 @@ public class GameOverScreen : MonoBehaviour
 
     private void OnRestartButtonClick()
     {
+        if (ScoreCount._hiScoreCount < ScoreCount._scoreCount)
+            ScoreCount._hiScoreCount = ScoreCount._scoreCount;
+        ScoreCount._scoreCount = 0;
         Time.timeScale = 1;
         SceneManager.LoadScene(0);
     }

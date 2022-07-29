@@ -12,7 +12,7 @@ public class Enemy : MonoBehaviour
         {
             player.ApplyDamage(_damage);
         }
-        ScoreCount._count++;
+        ScoreCount._scoreCount++;
         Die();
     }
 
